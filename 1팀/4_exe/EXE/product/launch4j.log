@@ -1,0 +1,23 @@
+
+
+Version:	3.50
+CmdLine:	D:\LYJ\Advanced\EXE\product\mini.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\LYJ\Advanced\EXE\product\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = D:\LYJ\java\jdk-17.0.12
+Substitute:	PATH = C:\Program Files\MariaDB 10.11\bin;C:\app\user\virtual\product\12.2.0\dbhome_1\bin;D:\LYJ\java\jdk-17.0.12\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\cmd;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\AppData\Local\GitHubDesktop\bin;D:\LYJ\java\jdk-17.0.12\bin
+JRE paths:	D:\LYJ\java\jdk-17.0.12;C:\Program Files\MariaDB 10.11\bin;C:\app\user\virtual\product\12.2.0\dbhome_1\bin;D:\LYJ\java\jdk-17.0.12\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\cmd;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\AppData\Local\GitHubDesktop\bin;D:\LYJ\java\jdk-17.0.12\bin
+Check launcher:	D:\LYJ\java\jdk-17.0.12\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Main class:	LoginPage
+Add classpath:	mariadb-java-client-3.4.0.jar
+Add classpath:	.
+Launcher:	D:\LYJ\java\jdk-17.0.12\bin\javaw.exe
+Launcher args:	-classpath "D:\LYJ\Advanced\EXE\product\mini.exe;mariadb-java-client-3.4.0.jar;." LoginPage
+Args length:	91/32768 chars
+Exit code:	0
