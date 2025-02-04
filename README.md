@@ -103,6 +103,10 @@
 
 ---
 
+<details>
+    <summary> 프로젝트 실행해보기🚀 </summary>
+    <div>
+
 ## 🚀 프로젝트 실행 방법 (Setup & Run)
 ### 1️⃣ **필요한 환경 설정**
 - **Java JDK 17 이상 설치**
