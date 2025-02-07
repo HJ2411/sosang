@@ -53,7 +53,7 @@
 | 이영주 | [sensato437](https://github.com/sensato437) | Google Maps API 적용 <br/>Database 구성  |
 | 엄태정 | [TaeJeong-Eom](https://github.com/TaeJeong-Eom) | 댓글 및 평가하기 기능 <br/> GUI 디자인(로그인 페이지, 회원가입 페이지, 관심가게목록, 댓글창)    |
 | 김희진 | [HJ2411](https://github.com/HJ2411)     | 로그인, 회원가입 기능 <br/> 네비게이터 기능(뒤로가기, 바로가기) <br/> 마이페이지 기능(개인정보 수정, 프로필 이미지 삽입) <br/> 좋아요 기능      |
-| 신혜서 | [tlsgptj](https://github.com/tlsgptj)     | 검색 기능 <br/> GUI 디자인(메인페이지, 상품목록 가져오기) <br/> 상품목록 가져오기 기능 |
+| 신혜서 | [tlsgptj](https://github.com/tlsgptj)     | 검색 기능 <br/> GUI 디자인(메인페이지, 상품목록 가져오기 |
 
 ---
 
