@@ -76,25 +76,39 @@
 - 사용자는 회원가입 후 로그인 가능  
 - 판매자와 일반 사용자를 구분하여 다른 기능 제공  
 - 비밀번호 암호화 및 로그인 보안 강화
+<p>
+	<img src = https://github.com/TaeJeong-Eom/sosang/blob/main/ppt/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif/>
+	<img src = https://github.com/TaeJeong-Eom/sosang/blob/main/1%ED%8C%80/3_%EC%A3%BC%EC%9A%94%EC%BA%A1%EC%B2%98%EC%9D%B4%EB%AF%B8%EC%A7%80(%EC%9B%80%EC%A7%A4_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81%ED%8F%AC%ED%95%A8)/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%851.gif />	
+</p>
 
 #### 🏪 **가게 정보**
 - 판매자는 자신의 가게를 등록하고 수정할 수 있음  
 - 사용자는 등록된 가게를 검색하고 정보 확인 가능  
-- 가게의 영업시간, 위치, 업종, 사진 등을 표시  
+- 가게의 영업시간, 위치, 업종, 사진 등을 표시
+<p>
+	<img src="https://github.com/TaeJeong-Eom/sosang/blob/main/1%ED%8C%80/3_%EC%A3%BC%EC%9A%94%EC%BA%A1%EC%B2%98%EC%9D%B4%EB%AF%B8%EC%A7%80(%EC%9B%80%EC%A7%A4_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81%ED%8F%AC%ED%95%A8)/%EA%B0%80%EA%B2%8C%EC%A0%95%EB%B3%B4%EC%88%98%EC%A0%951.gif"/>
+	<img src="https://github.com/TaeJeong-Eom/sosang/blob/main/1%ED%8C%80/3_%EC%A3%BC%EC%9A%94%EC%BA%A1%EC%B2%98%EC%9D%B4%EB%AF%B8%EC%A7%80(%EC%9B%80%EC%A7%A4_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81%ED%8F%AC%ED%95%A8)/%EA%B5%AC%EA%B8%80%EC%A7%80%EB%8F%84.gif" />
+</p>
 
 #### ⭐ **리뷰 시스템**
 - 사용자들이 가게에 대한 리뷰를 작성하고 별점 부여 가능  
 - 리뷰를 통해 다른 사용자들이 가게에 대한 신뢰도를 평가할 수 있음  
-- 리뷰 수정 및 삭제 기능 제공  
+- 리뷰 수정 및 삭제 기능 제공
+
+![리뷰페이지](https://github.com/TaeJeong-Eom/sosang/blob/main/ppt/%EB%A6%AC%EB%B7%B0%ED%8E%98%EC%9D%B4%EC%A7%80.gif)
 
 #### ❤️ **관심 가게 (즐겨찾기)**
 - 하트(♥) 버튼을 눌러 관심 있는 가게를 즐겨찾기 추가  
 - 다시 누르면 즐겨찾기에서 삭제  
-- 데이터베이스와 연동하여 사용자의 관심 목록 유지  
+- 데이터베이스와 연동하여 사용자의 관심 목록 유지
+
+![관심가게등록](https://github.com/TaeJeong-Eom/sosang/blob/main/ppt/%EA%B4%80%EC%8B%AC%EA%B0%80%EA%B2%8C%EB%A6%AC%EC%8A%A4%ED%8A%B8%2B%EB%92%A4%EB%A1%9C%EA%B0%80%EA%B8%B0.gif)
 
 #### 📢 **공지사항 시스템**
 - 관리자가 앱 공지사항을 등록 및 수정 가능  
-- 사용자는 공지사항을 통해 앱 업데이트 및 이벤트 확인 가능  
+- 사용자는 공지사항을 통해 앱 업데이트 및 이벤트 확인 가능
+
+![공지사항](https://github.com/TaeJeong-Eom/sosang/blob/main/1%ED%8C%80/3_%EC%A3%BC%EC%9A%94%EC%BA%A1%EC%B2%98%EC%9D%B4%EB%AF%B8%EC%A7%80(%EC%9B%80%EC%A7%A4_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81%ED%8F%AC%ED%95%A8)/%EA%B0%80%EA%B2%8C%EC%86%8C%EC%8B%9D%EB%93%B1%EB%A1%9D.gif)
 
 #### 🗂 **데이터베이스 연동**
 - `MariaDB`를 사용하여 회원, 가게, 리뷰 등의 데이터 관리  
@@ -102,6 +116,10 @@
 - SQL 쿼리를 최적화하여 성능 개선  
 
 ---
+
+## 🌈 PPT로 **핵심 내용을 요약한 자료**를 확인해보세요!
+[PPT 보기](https://www.canva.com/design/DAGd9yQTeBs/xwyulWslU1jhPLqIsTj-tg/edit?utm_content=DAGd9yQTeBs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 <details>
     <summary> 프로젝트 실행해보기🚀 </summary>
